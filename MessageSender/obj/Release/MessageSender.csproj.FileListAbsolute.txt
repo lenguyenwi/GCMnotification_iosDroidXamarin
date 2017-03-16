@@ -1,0 +1,8 @@
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\bin\Release\MessageSender.exe.config
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\bin\Release\MessageSender.exe
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\bin\Release\MessageSender.pdb
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\bin\Release\Newtonsoft.Json.dll
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\bin\Release\Newtonsoft.Json.xml
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\obj\Release\MessageSender.csprojResolveAssemblyReference.cache
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\obj\Release\MessageSender.exe
+C:\workspace\VS\TestAndDelete\RemoteNotificationsSelfBuilded\MessageSender\obj\Release\MessageSender.pdb
